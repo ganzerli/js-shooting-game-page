@@ -1,0 +1,15 @@
+{
+  "name": "js-space-game",
+  "version": "1.0.0",
+  "description": "javascrit game with css js html",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Massimo Ganzerli",
+  "license": "ISC",
+  "homepage": "https://ganzerli.github.io/js-shooting-game-page",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
